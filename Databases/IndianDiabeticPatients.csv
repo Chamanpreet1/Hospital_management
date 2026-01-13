@@ -1,0 +1,101 @@
+AadhaarCard,PatientID,Name,Age,Gender,DiabetesType,DiagnosisDate,HbA1c,BloodGlucose,Complications,Medication,FamilyHistory
+91970082457,D6405,Jiya Contractor,63,Female,Type 1,2022-11-05,9.7,267,Cardiovascular disease,,No Significant History
+553761107147,D4389,Eva Chhabra,54,Male,Type 2,2023-09-23,9.7,288,,"Metformin, Insulin",Diabetes
+505799452476,D2133,Saira Kakar,24,Male,Type 2,2019-07-09,5.9,146,,,Diabetes
+613157343066,D5632,Nayantara Venkatesh,53,Female,Type 1,2023-12-01,8.7,279,"Foot ulcers, Nephropathy",DPP-4 inhibitors,Diabetes
+60215837790,D7520,Seher Sani,35,Female,Type 2,2020-08-07,7.7,228,"Neuropathy, Cardiovascular disease",,Diabetes
+150672288896,D7085,Rhea Swaminathan,24,Male,Type 1,2024-04-05,6.9,114,,,Diabetes
+373616782780,D6584,Renee Yogi,51,Male,Type 2,2024-02-22,7.5,257,"Cardiovascular disease, None",,Diabetes
+516763121981,D6142,Dishani Bail,70,Female,Type 1,2023-10-27,6.5,96,"Retinopathy, Neuropathy",SGLT2 inhibitors,Diabetes
+791036279084,D7860,Jivin Kumer,47,Female,Type 2,2019-02-13,6.9,165,"None, Cardiovascular disease, Neuropathy","Insulin, Sulfonylureas",No Significant History
+537448127259,D7538,Umang Dara,57,Female,Type 1,2021-04-07,11.4,179,"Neuropathy, Foot ulcers, None",,Diabetes
+417070064805,D4966,Renee Kari,78,Male,Type 1,2018-08-24,6.5,149,"Foot ulcers, Neuropathy",,No Significant History
+230898985408,D1687,Madhup Saxena,36,Male,Type 1,2021-02-15,8.5,87,,Sulfonylureas,Diabetes
+438333722864,D3477,Nitya Kurian,67,Female,Type 2,2018-09-22,8.4,288,Retinopathy,"DPP-4 inhibitors, GLP-1 receptor agonists",Diabetes
+934204446500,D1081,Jivika Khosla,61,Female,Type 2,2022-08-05,8.9,149,Neuropathy,"Sulfonylureas, DPP-4 inhibitors",Diabetes
+283788029755,D9874,Uthkarsh Gala,24,Female,Type 1,2021-02-02,11.6,181,"Retinopathy, None",None,Diabetes
+882698073434,D7296,Rasha Hegde,47,Female,Type 2,2020-01-09,6.9,97,,"GLP-1 receptor agonists, Metformin",Diabetes
+21236492931,D7986,Seher Tata,64,Female,Type 2,2018-05-30,6.7,287,"Cardiovascular disease, Foot ulcers, None",,No Significant History
+138454442509,D5967,Saanvi Banerjee,55,Female,Type 2,2021-03-16,8.2,253,"Nephropathy, Neuropathy, Foot ulcers",,Diabetes
+6883129075,D2686,Shaan Kanda,49,Male,Type 2,2017-11-07,10.7,241,Cardiovascular disease,"GLP-1 receptor agonists, SGLT2 inhibitors",Diabetes
+393946496231,D5063,Romil Chowdhury,31,Female,Type 2,2017-02-18,5.4,189,None,"Insulin, Metformin",Diabetes
+149208553883,D9276,Elakshi Sarin,36,Female,Type 2,2019-08-04,9.6,282,"Retinopathy, Neuropathy, Foot ulcers",,No Significant History
+405985179425,D9412,Dhanush Mandal,27,Female,Type 2,2017-08-09,7.7,276,"Foot ulcers, Retinopathy",,Diabetes
+845128093116,D5222,Tara Vora,65,Female,Type 1,2021-07-05,6.3,275,"Neuropathy, Retinopathy, Foot ulcers",SGLT2 inhibitors,No Significant History
+620859199157,D1917,Lakshit Babu,22,Female,Type 1,2015-07-26,10.3,248,"Nephropathy, Retinopathy",,Diabetes
+770538617250,D5162,Yuvraj  Sodhi,75,Female,Type 2,2018-03-17,8.4,235,"Retinopathy, Cardiovascular disease",SGLT2 inhibitors,Diabetes
+687081477948,D6735,Yashvi Vala,58,Male,Type 1,2017-03-20,5.3,141,Cardiovascular disease,"None, Metformin",No Significant History
+502005394195,D8793,Samaira Goswami,70,Male,Type 2,2019-06-26,5.3,220,,,No Significant History
+560174575111,D6399,Zeeshan Sanghvi,52,Male,Type 2,2023-02-09,10.5,156,Nephropathy,Metformin,Diabetes
+367752606115,D5334,Vihaan Lal,50,Female,Type 2,2016-09-15,7.9,264,Cardiovascular disease,,No Significant History
+796441651507,D1658,Neysa Bir,46,Male,Type 1,2021-02-14,7,291,"Retinopathy, Foot ulcers",Metformin,No Significant History
+338198662747,D1219,Kanav Korpal,30,Female,Type 2,2021-10-01,7.3,232,,,No Significant History
+290945984849,D2410,Mahika Sidhu,80,Male,Type 2,2020-07-16,8.9,255,,"Sulfonylureas, GLP-1 receptor agonists",No Significant History
+396675240279,D6567,Aarush Jaggi,63,Male,Type 1,2023-07-05,6.5,204,Foot ulcers,"GLP-1 receptor agonists, Insulin",No Significant History
+733536816164,D9265,Ritvik Kara,75,Female,Type 1,2023-04-24,6.7,87,None,,Diabetes
+288183784433,D9943,Diya Goswami,26,Male,Type 2,2023-03-10,11.2,275,"Cardiovascular disease, Retinopathy, None","Metformin, DPP-4 inhibitors",Diabetes
+913604987142,D4233,Tanya Joshi,60,Male,Type 1,2018-10-13,10.7,188,"Retinopathy, Neuropathy, Foot ulcers",,No Significant History
+527862107150,D1764,Manjari Bedi,62,Male,Type 2,2022-01-30,11.4,129,"Cardiovascular disease, Neuropathy",SGLT2 inhibitors,Diabetes
+125910823970,D5261,Dharmajan Ahuja,26,Female,Type 2,2015-06-03,5.3,115,,,No Significant History
+165871832693,D9161,Yasmin Thaker,77,Female,Type 2,2022-05-02,7.3,223,"Nephropathy, Neuropathy, None",Insulin,No Significant History
+586981724014,D6132,Vivaan Bandi,55,Male,Type 1,2021-07-11,11.5,140,,GLP-1 receptor agonists,Diabetes
+332803347308,D2075,Miraya Mallick,26,Female,Type 1,2020-10-03,8.1,102,,"SGLT2 inhibitors, DPP-4 inhibitors",No Significant History
+721474305360,D5718,Stuvan Sami,64,Female,Type 1,2015-11-25,10.8,174,Retinopathy,"Metformin, Insulin",No Significant History
+686760381431,D4025,Vanya Shan,60,Male,Type 1,2021-10-14,6.5,87,Foot ulcers,,No Significant History
+172746312371,D3080,Bhavin Ahluwalia,31,Male,Type 2,2019-12-20,5.8,295,None,,No Significant History
+392774252718,D1794,Trisha Magar,64,Female,Type 1,2020-03-17,10.5,222,,GLP-1 receptor agonists,No Significant History
+520039971192,D1489,Amira Dani,51,Male,Type 2,2023-07-14,10.1,144,"Nephropathy, None","Insulin, DPP-4 inhibitors",Diabetes
+600396988065,D5392,Nitya Samra,55,Female,Type 2,2021-11-17,10,177,"None, Foot ulcers, Neuropathy",Sulfonylureas,Diabetes
+263132794005,D8107,Divit Choudhary,50,Male,Type 2,2020-07-10,9,198,,Sulfonylureas,Diabetes
+651214763782,D7017,Purab Varughese,69,Male,Type 2,2021-06-08,6.2,234,Cardiovascular disease,,Diabetes
+81423552604,D9283,Pari Sinha,62,Male,Type 1,2020-08-26,6.7,253,,,Diabetes
+218180599819,D2926,Bhavin Jha,75,Male,Type 1,2022-12-06,5.4,148,"Neuropathy, Cardiovascular disease",,No Significant History
+689171036499,D2039,Aarna Ghosh,67,Male,Type 1,2015-01-08,9.1,147,Nephropathy,,Diabetes
+348067696040,D2539,Kanav Ahuja,34,Male,Type 2,2021-09-16,10.4,245,Neuropathy,"Metformin, Insulin",Diabetes
+450614819990,D2475,Zeeshan Chowdhury,36,Female,Type 2,2021-05-06,8.9,227,None,"None, SGLT2 inhibitors",No Significant History
+566674806947,D5286,Nitara Kota,49,Male,Type 1,2016-02-27,9.1,166,,,Diabetes
+651263924566,D2519,Priyansh Dutta,63,Female,Type 1,2018-07-25,11.8,233,"Cardiovascular disease, Neuropathy",,No Significant History
+965716016825,D8174,Saksham Thakur,32,Male,Type 1,2024-01-30,10.8,104,,"GLP-1 receptor agonists, Insulin",No Significant History
+651751401444,D6050,Advika Batra,25,Female,Type 2,2018-10-15,10.1,114,"Cardiovascular disease, Neuropathy, Foot ulcers","Metformin, SGLT2 inhibitors",No Significant History
+840396938701,D3906,Riya Anand,68,Female,Type 2,2017-06-08,9.2,254,"Cardiovascular disease, Nephropathy",Insulin,No Significant History
+110207940286,D2326,Charvi Rattan,22,Male,Type 1,2022-03-15,8.3,147,"Nephropathy, Foot ulcers, Retinopathy",Insulin,Diabetes
+821506744886,D2823,Aarav Upadhyay,26,Male,Type 2,2017-04-25,8.2,117,Neuropathy,,Diabetes
+515471097695,D1057,Myra Gera,20,Male,Type 2,2017-06-18,5.6,93,"Cardiovascular disease, Foot ulcers",,No Significant History
+526785727528,D3935,Raghav Gopal,43,Male,Type 2,2020-06-28,6.7,289,Nephropathy,,No Significant History
+31518441727,D9547,Himmat Apte,45,Male,Type 2,2020-04-16,7.8,131,,Sulfonylureas,Diabetes
+213625226378,D9114,Anaya Dayal,69,Female,Type 2,2015-03-04,10.5,195,"Retinopathy, Neuropathy, Cardiovascular disease",,No Significant History
+316418621441,D7185,Kabir Wali,57,Female,Type 2,2018-12-13,8.9,106,"Neuropathy, Foot ulcers, None","SGLT2 inhibitors, Insulin",No Significant History
+978813298626,D2030,Aarav Gour,75,Female,Type 1,2016-02-01,7.4,185,"Retinopathy, Foot ulcers","Metformin, Insulin",Diabetes
+601291402595,D4405,Kimaya Anne,57,Male,Type 1,2019-09-10,5.5,274,"Foot ulcers, Nephropathy, Cardiovascular disease",Insulin,No Significant History
+540923657353,D7753,Nitara Dugar,38,Female,Type 1,2020-05-13,7,160,,"GLP-1 receptor agonists, None",Diabetes
+665709220718,D8872,Priyansh Halder,62,Female,Type 2,2019-02-22,5.6,292,None,,Diabetes
+235567594501,D5370,Ela Bali,43,Female,Type 2,2020-12-08,6.1,231,"Retinopathy, Cardiovascular disease, Foot ulcers",,Diabetes
+847020357930,D6096,Damini Rajan,26,Female,Type 1,2018-10-31,6.7,244,"Cardiovascular disease, Retinopathy",GLP-1 receptor agonists,No Significant History
+392724534524,D6370,Veer Virk,44,Female,Type 1,2019-06-27,6.5,96,"Foot ulcers, None",Sulfonylureas,Diabetes
+401971042114,D7546,Kanav Raj,33,Male,Type 1,2021-01-25,11.2,182,"Cardiovascular disease, Retinopathy","GLP-1 receptor agonists, None",Diabetes
+808714284586,D5933,Charvi Shroff,58,Female,Type 1,2021-10-24,6,238,Retinopathy,Metformin,Diabetes
+445899754455,D2416,Nitya Bora,51,Male,Type 2,2022-04-12,11,206,"Foot ulcers, Nephropathy",DPP-4 inhibitors,Diabetes
+410610196699,D1641,Emir Khurana,48,Female,Type 2,2023-07-13,8.3,282,"Cardiovascular disease, None","DPP-4 inhibitors, Metformin",No Significant History
+66473493795,D6433,Jayesh Mangal,57,Female,Type 1,2018-08-26,6.1,165,Nephropathy,"Sulfonylureas, SGLT2 inhibitors",No Significant History
+451270623932,D7767,Akarsh Bath,21,Female,Type 1,2022-03-15,6.1,80,,Sulfonylureas,No Significant History
+464435221870,D3717,Lakshay Korpal,45,Male,Type 1,2023-01-26,7.8,245,"Retinopathy, Nephropathy","Metformin, GLP-1 receptor agonists",No Significant History
+559329181476,D3555,Misha Taneja,65,Female,Type 1,2023-10-27,10.7,285,Nephropathy,,Diabetes
+183941693566,D1856,Diya Gour,76,Female,Type 2,2015-12-22,10.7,167,,Insulin,Diabetes
+735026203335,D5729,Ahana  Venkataraman,56,Male,Type 2,2022-02-03,10.2,164,"Cardiovascular disease, Nephropathy, Neuropathy","None, Metformin",Diabetes
+648516725151,D2800,Hunar Mahajan,52,Female,Type 2,2022-11-06,11.6,163,"Foot ulcers, Nephropathy, Cardiovascular disease",,No Significant History
+371219465843,D9657,Jiya Varughese,70,Male,Type 1,2020-10-07,11.3,242,"Nephropathy, Neuropathy","None, Insulin",Diabetes
+959893580407,D8708,Armaan Krish,20,Male,Type 2,2021-08-25,9.3,189,,,No Significant History
+426971756521,D9031,Lagan Kota,59,Male,Type 2,2019-07-04,5.4,131,"None, Retinopathy, Nephropathy","Metformin, DPP-4 inhibitors",Diabetes
+437884806075,D1291,Kashvi Sahota,37,Male,Type 1,2020-02-11,10.8,99,"Retinopathy, Nephropathy, None",Insulin,No Significant History
+757505390710,D8234,Kashvi Salvi,52,Male,Type 2,2020-10-15,9.8,107,"Retinopathy, Foot ulcers","None, Insulin",Diabetes
+871708866116,D8438,Miraan Kumer,74,Female,Type 1,2021-10-19,5.1,121,"Retinopathy, Foot ulcers, Neuropathy",,Diabetes
+164688441641,D4742,Prisha Chokshi,65,Female,Type 1,2016-11-07,10.5,128,,,Diabetes
+549200227516,D8526,Kismat Aggarwal,39,Female,Type 1,2023-07-20,6.3,128,"Nephropathy, Foot ulcers, None",None,Diabetes
+518321950305,D5740,Adira Sama,41,Male,Type 1,2024-05-29,11.3,104,"Neuropathy, Nephropathy, None","GLP-1 receptor agonists, Sulfonylureas",Diabetes
+103574889342,D9001,Biju Kunda,70,Female,Type 1,2016-08-19,11.5,176,Nephropathy,Metformin,No Significant History
+372756297977,D7153,Shanaya Chaudhry,62,Male,Type 1,2015-01-26,7.2,248,"Retinopathy, Cardiovascular disease, Nephropathy","SGLT2 inhibitors, DPP-4 inhibitors",Diabetes
+385555469425,D8400,Tushar Bhagat,36,Male,Type 1,2022-07-26,8.2,92,"None, Neuropathy, Foot ulcers",,No Significant History
+288001909646,D7381,Alia Magar,48,Male,Type 2,2020-05-27,8.7,272,Retinopathy,"Metformin, None",No Significant History
+422181143626,D4770,Himmat Ram,37,Female,Type 1,2015-04-25,5.1,89,"Nephropathy, Neuropathy",,Diabetes
+801952027656,D4907,Gatik Wagle,37,Male,Type 1,2021-03-11,11.7,210,"Retinopathy, Foot ulcers, Cardiovascular disease",,Diabetes
+206996465990,D6690,Nishith Ramakrishnan,27,Male,Type 2,2020-11-26,5.5,224,"Cardiovascular disease, None, Retinopathy","Metformin, GLP-1 receptor agonists",Diabetes
